@@ -1,6 +1,6 @@
 ### Olá! Me chamo Josué Morfim!
 Sou apaixonado por tecnologia e nesse momento estou em transição de carreira para a area de Analise de Dados. 
-Terminei recentemente meu curso profissionalizante de Analista de Dados na EBAC, e atualmente estou estudando Ciência de Dados na Estácio.
+Estou na parte final do curso profissionalizante de Analista de Dados na EBAC, e também estou cursando Ciência de Dados na Estácio.
 
 
 ### Redes Sociais
