@@ -5,7 +5,7 @@ Estou na parte final do curso profissionalizante de Analista de Dados na EBAC, e
 
 ### Redes Sociais
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/josumorfim)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josué-morfim)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/josumorfim)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josué-morfim)
 
 ![Josué GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueMorfim&show_icons=true&theme=transparent)
 
