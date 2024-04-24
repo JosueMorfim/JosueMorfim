@@ -1,6 +1,6 @@
 ### Olá! Me chamo Josué Morfim!
 Sou apaixonado por tecnologia e nesse momento estou em transição de carreira para a area de Analise de Dados. 
-Concluí curso de Analista de dados na EBAC, e estou cursando ciência de dados na estácio. Também estou realizando alguns cursos livres de Power BI, SQL e Machine Learning na Alura, para aprimorar meus conhecimentos.
+Concluí curso de Analista de dados na EBAC, e estou cursando ciência de dados na estácio. Também estou realizando alguns cursos livres de Power BI, SQL e Machine Learning na Alura para aprimorar meus conhecimentos.
 
 
 ### Redes Sociais
